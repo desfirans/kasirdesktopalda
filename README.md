@@ -1,0 +1,2 @@
+# kasirdesktopalda
+apllkasi kasir desktop
